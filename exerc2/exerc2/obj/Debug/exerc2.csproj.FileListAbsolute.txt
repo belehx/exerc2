@@ -1,0 +1,7 @@
+C:\Users\ALUNO\source\repos\exerc2\exerc2\bin\Debug\exerc2.exe.config
+C:\Users\ALUNO\source\repos\exerc2\exerc2\bin\Debug\exerc2.exe
+C:\Users\ALUNO\source\repos\exerc2\exerc2\bin\Debug\exerc2.pdb
+C:\Users\ALUNO\source\repos\exerc2\exerc2\obj\Debug\exerc2.csproj.AssemblyReference.cache
+C:\Users\ALUNO\source\repos\exerc2\exerc2\obj\Debug\exerc2.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\source\repos\exerc2\exerc2\obj\Debug\exerc2.exe
+C:\Users\ALUNO\source\repos\exerc2\exerc2\obj\Debug\exerc2.pdb
